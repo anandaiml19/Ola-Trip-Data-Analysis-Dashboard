@@ -13,7 +13,19 @@
   
 [Powerbi Dashboard link](https://app.powerbi.com/view?r=eyJrIjoiMTQ3MTU5ZGEtY2Y5NS00NDkyLWFhNmMtN2RjM2FmZGJiMjk5IiwidCI6IjcwODM0NmQyLTg4YjAtNDE4NC1iOWU5LTlhMTQ5YzY0NWM0NCJ9)
    <p align="center"> <img src="https://github.com/anandaiml19/Ola-Trip-Data-Analysis-Dashboard/blob/main/Ola.PNG" alt="Powerbi" width="555" height="380"/> </a> </h1>
-   
+  
+  __Steps Involved:__
+
+Step 1: Download file FROM Kaggle Dataset
+
+Step 2: Cleaned Data using Excel 
+
+Step 3: Download  [Powerbi Desktop](https://powerbi.microsoft.com/en-us/downloads/)  to perform Data Analysis
+
+Step 4: Connect Powerbi with  Excel database
+
+Step 5: Save the file as (.pbix)
+
    __Project reference__🔗
 [OLA Trip Data Analysis](https://www.kaggle.com/datasets/nimish23/ola-trips?resource=download)
 
