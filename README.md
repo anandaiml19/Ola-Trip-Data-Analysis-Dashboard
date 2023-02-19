@@ -8,10 +8,10 @@
 •	Data cleaning is performed using Excel
 •	Developed a Powerbi Dashboard to perform analysis, producing quantitative visualization in Powerbi to determine the company revenue , employee performance and what action should be taken to improve the growth of the company.
 
- __Project - Ola-Trip-Data-Analysis-Dashboard using Powerbi__
+ __**Project - Ola-Trip-Data-Analysis-Dashboard using Powerbi**__
  <p align="center"> 
   
-[Powerbi Dashboard link](https://app.powerbi.com/view?r=eyJrIjoiMTQ3MTU5ZGEtY2Y5NS00NDkyLWFhNmMtN2RjM2FmZGJiMjk5IiwidCI6IjcwODM0NmQyLTg4YjAtNDE4NC1iOWU5LTlhMTQ5YzY0NWM0NCJ9)
+[Powerbi Dashboard link 🔗](https://app.powerbi.com/view?r=eyJrIjoiMTQ3MTU5ZGEtY2Y5NS00NDkyLWFhNmMtN2RjM2FmZGJiMjk5IiwidCI6IjcwODM0NmQyLTg4YjAtNDE4NC1iOWU5LTlhMTQ5YzY0NWM0NCJ9)
    <p align="center"> <img src="https://github.com/anandaiml19/Ola-Trip-Data-Analysis-Dashboard/blob/main/Ola.PNG" alt="Powerbi" width="555" height="380"/> </a> </h1>
   
   __Steps Involved:__
@@ -28,7 +28,8 @@ Step 5: Save the file as (.pbix)
 
 step 6: Publish the dashboard into powerbi cloud
 
-   __Project reference__🔗
+   __**Project reference**__🔗
+   
 [OLA Trip Data Analysis](https://www.kaggle.com/datasets/nimish23/ola-trips?resource=download)
 
 ### Liked my Contributions:question:[Follow Me](https://github.com/anandaiml19):point_right: [Nominate Me for GitHub Stars](https://stars.github.com/nominate/) :star: :sparkles:
