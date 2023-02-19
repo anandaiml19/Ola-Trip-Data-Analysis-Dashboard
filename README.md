@@ -16,7 +16,7 @@
   
   __Steps Involved:__
 
-Step 1: Download file FROM Kaggle Dataset
+Step 1: Download file from Kaggle Dataset
 
 Step 2: Cleaned Data using Excel 
 
@@ -25,6 +25,8 @@ Step 3: Download  [Powerbi Desktop](https://powerbi.microsoft.com/en-us/download
 Step 4: Connect Powerbi with  Excel database
 
 Step 5: Save the file as (.pbix)
+
+step 6: Publish the dashboard into powerbi cloud
 
    __Project reference__🔗
 [OLA Trip Data Analysis](https://www.kaggle.com/datasets/nimish23/ola-trips?resource=download)
