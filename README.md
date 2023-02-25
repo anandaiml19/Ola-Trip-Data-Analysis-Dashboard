@@ -29,6 +29,18 @@ Step 5: Save the file as (.pbix)
 
 step 6: Publish the dashboard into powerbi cloud
 
+### Problem Statements
+
+- Q1. Revenue breakdown by cities.
+
+- Q2. Revenue brekdown by months.
+
+- Q3. Which category of Trips are mostly booked
+
+- Q4. Which purpose of Trips are mostly booked
+  
+- Q5. Total revenue of the company
+
 ### Approach - Project Planning & Aims Grid
   
 #### 1. Purpose: What? Why? What do we want to achieve?
